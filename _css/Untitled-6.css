@@ -1,0 +1,127 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+   background-image:url(../images/057_1600_websbook_com.jpg);
+   background-repeat:no-repeat;
+   background-attachment:fixed;
+   background-position: center center;
+}
+#MainFrame{
+	width:770px;
+   margin-right: auto;
+   margin-left: auto;
+}
+#MainFrame #prefix{
+   width:770px;
+   background:#077770;
+}
+#MainFrame #prefix h1{
+   padding:5px;
+   width:770px;
+   color:#FFF;
+}
+#MainFrame #leftfix{
+   margin:auto;
+   text-align:left;
+   float:left;
+   width:150px;
+   height:400px;
+}
+#MainFrame #rightfix{
+   border:5px dotted #000;   
+   margin-left:5px;
+   background:#BDDDDB;
+   float:left;
+   width:600px;
+   height:auto;
+}
+#MainFrame #leftfix .l0{
+	padding-top:10px;
+	padding-bottom:10px;
+	padding-left:5px;
+	margin-bottom:5px;
+}
+#MainFrame #leftfix .l1{
+	padding:10px;
+	cursor:pointer;
+	margin-bottom:5px;
+}
+#MainFrame #leftfix .l2{
+	padding:10px;
+	cursor:pointer;
+	margin-bottom:5px;
+}
+#MainFrame #leftfix .l3{
+	padding:10px;
+	cursor:pointer;
+	margin-bottom:5px;
+}
+#MainFrame #leftfix .l4{
+	padding:10px;
+	cursor:pointer;
+	margin-bottom:5px;
+}
+#MainFrame #leftfix .files{
+	padding:10px;
+	cursor:pointer;
+	margin-bottom:5px;
+}
+#MainFrame #leftfix .webs{
+	padding:10px;
+	cursor:pointer;
+	margin-bottom:5px;
+}
+#MainFrame #leftfix .M{
+	padding:10px;
+	cursor:pointer;
+	margin-bottom:5px;
+}
+#MainFrame #leftfix .member{
+	padding:10px;
+	cursor:pointer;
+	margin-bottom:5px;
+}
+#MainFrame #leftfix .call{
+	padding:10px;
+	cursor:pointer;
+	margin-bottom:5px;
+}
+#MainFrame #leftfix ._mails{
+	padding:10px;
+	cursor:pointer;
+	margin-bottom:5px;
+}
+#MainFrame #prefix h1{
+	cursor:pointer;
+}
+#MainFrame #leftfix img{
+	padding-right:3px;
+}
+#rightfix .td1{
+	cursor:pointer;
+	background-color:#4400AA;
+}
+#rightfix .td1 a{
+	text-decoration:none;
+	color:#DDF;
+}
+#rightfix .td2{
+	cursor:pointer;
+	background-color:#4400AA;
+}
+#rightfix .td2 a{
+	text-decoration:none;
+	color:#DDF;
+}
+#rightfix .td3{
+	cursor:pointer;
+	background-color:#4400AA;
+}
+#rightfix .td3 a{
+	text-decoration:none;
+	color:#DDF;
+}
+.bgFE9{
+	background-color:#FE9;
+}

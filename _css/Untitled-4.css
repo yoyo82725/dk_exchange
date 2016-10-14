@@ -1,0 +1,56 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+   background-image:url(../images/057_1600_websbook_com.jpg);
+   background-repeat:no-repeat;
+   background-attachment:fixed;
+   background-position: center center;
+}
+#MainFrame{
+	width:770px;
+   margin-right: auto;
+   margin-left: auto;
+}
+#MainFrame #prefix{
+   width:770px;
+   background:#077770;
+}
+#MainFrame #prefix h1{
+   padding:5px;
+   width:770px;
+   color:#FFF;
+}
+#MainFrame #leftfix{
+   margin:auto;
+   text-align:left;
+   float:left;
+   width:150px;
+   height:400px;
+}
+#MainFrame #rightfix{
+   border:5px dotted #000;   
+   margin-left:5px;
+   background:#BDDDDB;
+   float:left;
+   width:600px;
+   height:auto;
+}
+
+#MainFrame #leftfix div{
+	margin-bottom:5px;
+	padding:10px;
+	cursor:pointer;
+}
+#MainFrame #prefix h1{
+	cursor:pointer;
+}
+#MainFrame #leftfix .l0{
+	cursor:auto;
+	padding-top:10px;
+	padding-bottom:10px;
+	padding-left:5px;
+}
+.bgFE9{
+	background-color:#FE9;
+}
