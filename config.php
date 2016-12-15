@@ -1,8 +1,8 @@
 ﻿<?php
-$hostname = "localhost";
-$username = "root";
-$connDb="dk_exchange";
-$password = "123456";
+$hostname = "";
+$username = "";
+$connDb="";
+$password = "";
 $link = mysql_connect($hostname, $username, $password) or die(mysql_error());
 mysql_select_db($connDb) or die("Could not select database");
 mysql_query("SET NAMES utf8");
